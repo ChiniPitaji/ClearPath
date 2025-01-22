@@ -1,4 +1,4 @@
-Add the nodes modules file in this before using this.
+Add the nodes modules file in this before using this. use this link if you want : (  https://drive.google.com/drive/u/0/folders/1-as6rSiebRxpUnxjb8ACB1Ko7B5PIsX_   )
 Make sure that npm and node is already install in your pc.
 After that install all the npm files using : "npm install".
 Create a .env file and write this text on this "file: VITE_PORT=5173"
